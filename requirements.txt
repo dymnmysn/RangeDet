@@ -7,4 +7,4 @@ pytz==2019.1
 setuptools==51.1.1
 six==1.15.0
 tensorflow==2.11.0
-waymo_open_dataset_2_11_0==1.6.1
+waymo-open-dataset-2-11-0==1.6.1
