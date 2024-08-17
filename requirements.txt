@@ -6,4 +6,3 @@ psutil
 pytz
 setuptools
 six
-waymo-open-dataset-2-11-0
